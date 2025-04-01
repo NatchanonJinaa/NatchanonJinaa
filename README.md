@@ -3,7 +3,7 @@
 ### 🛠 Skills
 
 #### 🚀 Programming Languages
-![JavaScript, PHP, Go, SQL](https://skillicons.dev/icons?i=js,php,go,sqlite)
+![JavaScript, PHP, Go, SQL](https://skillicons.dev/icons?i=js,php,go,sql)
 
 #### ⚙️ Frameworks
 ![Vue.js, Laravel, Go Fiber, Flutter](https://skillicons.dev/icons?i=vue,laravel,go,flutter)
