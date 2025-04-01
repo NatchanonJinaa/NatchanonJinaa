@@ -1,16 +1,27 @@
-## Hi I'm Natchanon Jina 👋
+# Hello! I'm Natchanon Jina. 👋
 
-### 🛠 Skills
+💡 **Passion:** Web Development (Frontend & Backend)  
+🎯 **Goal:** Creating scalable applications & collaborating on exciting projects  
 
-#### 🚀 Programming Languages
-![JavaScript, PHP, Go, SQL](https://skillicons.dev/icons?i=js,php,go,sql)
+---
 
-#### ⚙️ Frameworks
-![Vue.js, Laravel, Go Fiber, Flutter](https://skillicons.dev/icons?i=vue,laravel,go,flutter)
+### 🛠 **Skills**
 
-#### 🔧 Libraries & Tools
-![Git, GitHub, GitLab, Docker, CI/CD, Postman, Cloud Platforms](https://skillicons.dev/icons?i=git,github,gitlab,docker)
+#### 🚀 **Programming Languages**  
+![JavaScript, PHP, Go, SQL](https://skillicons.dev/icons?i=js,php,go,sql)  
 
-#### 📂 Databases
-![PostgreSQL, MySQL](https://skillicons.dev/icons?i=postgres,mysql)
+#### ⚙️ **Frontend & Backend Frameworks**  
+![Vue.js, Laravel, Go Fiber, Flutter](https://skillicons.dev/icons?i=vue,laravel,go,flutter)  
 
+#### 🔧 **Tools & Technologies**  
+![Git, GitHub, GitLab, Docker, CI/CD, Postman, Cloud Platforms](https://skillicons.dev/icons?i=git,github,gitlab,docker)  
+
+#### 📂 **Databases**  
+![PostgreSQL, MySQL](https://skillicons.dev/icons?i=postgres,mysql)  
+
+---
+
+### 📈 **GitHub Stats**  
+![Natchanon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
