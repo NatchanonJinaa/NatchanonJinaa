@@ -20,8 +20,3 @@
 ![PostgreSQL, MySQL](https://skillicons.dev/icons?i=postgres,mysql)  
 
 ---
-
-### 📈 **GitHub Stats**  
-![Natchanon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
