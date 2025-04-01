@@ -1,16 +1,16 @@
-## Hi I'm Natchanon Jina👋
+## Hi I'm Natchanon Jina 👋
 
-**NatchanonJinaa/NatchanonJinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Skills
 
-🛠 Skills
-🚀 Programming Languages
-JavaScript, PHP, Go, SQL
+#### 🚀 Programming Languages
+![JavaScript, PHP, Go, SQL](https://skillicons.dev/icons?i=js,php,go,sqlite)
 
-⚙️ Frameworks
-Vue.js, Laravel, Go Fiber, Flutter
+#### ⚙️ Frameworks
+![Vue.js, Laravel, Go Fiber, Flutter](https://skillicons.dev/icons?i=vue,laravel,go,flutter)
 
-🔧 Libraries & Tools
-Git, GitHub, GitLab, Docker, CI/CD, Postman, Cloud Platforms
+#### 🔧 Libraries & Tools
+![Git, GitHub, GitLab, Docker, CI/CD, Postman, Cloud Platforms](https://skillicons.dev/icons?i=git,github,gitlab,docker)
 
-📂 Databases
-PostgreSQL, MySQL
+#### 📂 Databases
+![PostgreSQL, MySQL](https://skillicons.dev/icons?i=postgres,mysql)
+
