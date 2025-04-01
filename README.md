@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Natchanon Jina👋
 
-<!--
 **NatchanonJinaa/NatchanonJinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🛠 Skills
+🚀 Programming Languages
+JavaScript, PHP, Go, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Frameworks
+Vue.js, Laravel, Go Fiber, Flutter
+
+🔧 Libraries & Tools
+Git, GitHub, GitLab, Docker, CI/CD, Postman, Cloud Platforms
+
+📂 Databases
+PostgreSQL, MySQL
