@@ -10,13 +10,13 @@
 #### 🚀 **Programming Languages**  
 ![JavaScript, PHP, Go, SQL](https://skillicons.dev/icons?i=js,php,go,sql)  
 
-#### ⚙️ **Frontend & Backend Frameworks**  
-![Vue.js, Laravel, Go Fiber, Flutter](https://skillicons.dev/icons?i=vue,laravel,go,flutter)  
+#### ⚙️ **Frameworks**  
+![Vue.js, Laravel, Go Fiber, Flutter](https://skillicons.dev/icons?i=vue,laravel,go,flutter,nodejs,express)  
 
 #### 🔧 **Tools & Technologies**  
 ![Git, GitHub, GitLab, Docker, CI/CD, Postman, Cloud Platforms](https://skillicons.dev/icons?i=git,github,gitlab,docker)  
 
 #### 📂 **Databases**  
-![PostgreSQL, MySQL](https://skillicons.dev/icons?i=postgres,mysql)  
+![PostgreSQL, MySQL](https://skillicons.dev/icons?i=postgres,mysql,mongodb)  
 
 ---
